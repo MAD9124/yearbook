@@ -12,6 +12,10 @@ We'll place the most recent cohort at the top. Please respect the order, first c
 
 #### Instructor
 
+- [Tim]
+
 #### PA(s)
 
 #### Students
+
+- [EUNJI LEE]
