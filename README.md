@@ -28,4 +28,4 @@
 - [Yue Zeng](https://github.com/zeng0057)
 - [Ekam Singh Bhatia](https://github.com/bhat0155)
 - [Harsh Kumar](https://github.com/hars0030)
--[Vinaydeep Singh Padda](https://github.com/padda0017)
+- [Vinaydeep Singh Padda](https://github.com/padda0017)
