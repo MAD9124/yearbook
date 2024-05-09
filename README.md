@@ -8,7 +8,7 @@
 
 - [Tim Robillard](https://github.com/TimRobillard)
 
-#### PA(s)- Vincent and Diego
+#### PA(s)- 
 
 #### Students
 - [Ekam Singh Bhatia](https://github.com/bhat0155)
