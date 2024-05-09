@@ -19,6 +19,7 @@
 
 
 - [Yuhang Zhou](https://github.com/zhou0244)
+-brodie-lewis- [brodie lewis](https://github.com/lewi0239
 - [Jordan Tippins](https://github.com/tipp0025)
 - [Asif Ashadullah](https://github.com/asha0012-asif)
 - [Dima Dzhemchuk](https://github.com/ddzhemchuk)
