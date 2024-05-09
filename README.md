@@ -15,3 +15,4 @@ We'll place the most recent cohort at the top. Please respect the order, first c
 #### PA(s)
 
 #### Students
+- Lai Nga Ching, Lilian (https://github.com/chin0088)
