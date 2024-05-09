@@ -17,5 +17,5 @@ We'll place the most recent cohort at the top. Please respect the order, first c
 #### PA(s)
 
 #### Students
-- [Eun Young Park](https://github.com/MAD9124/s2024-park0613)
+- [Eun Young Park](https://github.com/park0613)
 
