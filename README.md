@@ -1,10 +1,4 @@
-# MAD9124 Yearbook
 
-#### Description
-
-Each semester, every student will get a chance to sign the MAD9124 yearbook. This is an exercise in git flow, but I'm also hoping this will server as a fun history to see who has come through this program, and what they've gone on to achieve 🚀🚀🚀
-
-We'll place the most recent cohort at the top. Please respect the order, first come, first serve!
 
 ## Summer 2024
 
@@ -14,8 +8,10 @@ We'll place the most recent cohort at the top. Please respect the order, first c
 
 - [Tim Robillard](https://github.com/TimRobillard)
 
-#### PA(s)
+#### PA(s)- Vincent and Diego
 
 #### Students
 
 - [Yuhang Zhou](https://github.com/zhou0244)
+
+- [Ekam Singh Bhatia](https://github.com/bhat0155)
