@@ -30,3 +30,5 @@
 - [Ekam Singh Bhatia](https://github.com/bhat0155)
 - [Harsh Kumar](https://github.com/hars0030)
 - [Vinaydeep Singh Padda](https://github.com/padda0017)
+- [Adhithyan Kizhuppully Ullas](https://github.com/kizh0008)
+
