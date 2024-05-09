@@ -22,4 +22,5 @@
 - [Dima Dzhemchuk](https://github.com/ddzhemchuk)
 - [Erencan Toprak](https://github.com/topr0001)
 - [Eun Young Park](https://github.com/park0613)
+- [Yue Zeng](https://github.com/zeng0057)
 - [Ekam Singh Bhatia](https://github.com/bhat0155)
