@@ -15,3 +15,4 @@ We'll place the most recent cohort at the top. Please respect the order, first c
 #### PA(s)
 
 #### Students
+-[Ayoub Ben Sedrine](https://github.com/bens0101)
