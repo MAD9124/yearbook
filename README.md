@@ -18,6 +18,7 @@
 #### Students
 
 - [Yuhang Zhou](https://github.com/zhou0244)
+- [Jordan Tippins](https://github.com/tipp0025)
 - [Asif Ashadullah](https://github.com/asha0012-asif)
 - [Dima Dzhemchuk](https://github.com/ddzhemchuk)
 - [Erencan Toprak](https://github.com/topr0001)
