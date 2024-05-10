@@ -1,22 +1,18 @@
-
-
 ## Summer 2024
 
 ### 300
 
 #### Instructor
 
-
 - [Tim Robillard](https://github.com/TimRobillard)
 
-#### PA(s)- 
+#### PA(s)-
 
 #### Students
 
 #### PA(s)
 
 #### Students
-
 
 - [Yuhang Zhou](https://github.com/zhou0244)
 - [brodie lewis](https://github.com/lewi0239)
@@ -31,4 +27,4 @@
 - [Harsh Kumar](https://github.com/hars0030)
 - [Vinaydeep Singh Padda](https://github.com/padda0017)
 - [Adhithyan Kizhuppully Ullas](https://github.com/kizh0008)
-
+- [Veronika Nizhankivska](https://github.com/nizh0001)
