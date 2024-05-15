@@ -5,15 +5,9 @@
 ### 300
 
 #### Instructor
-
-
 - [Tim Robillard](https://github.com/TimRobillard)
 
 #### PA(s)- 
-
-#### Students
-
-#### PA(s)
 
 #### Students
 - [Berkcan Alankoy](https://github.com/alan0053)
@@ -30,3 +24,4 @@
 - [Harsh Kumar](https://github.com/hars0030)
 - [Vinaydeep Singh Padda](https://github.com/padda0017)
 - [Adhithyan Kizhuppully Ullas](https://github.com/kizh0008)
+- [EUNJI LEE](https://github.com/lee00866)
