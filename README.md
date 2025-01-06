@@ -1,4 +1,15 @@
+# Welcome to the MAD9124 Yearbook!
 
+## Winter 2025
+
+### 300
+
+#### Instructor
+- [Tim Robillard](https://github.com/TimRobillard)
+
+#### PA(s)- 
+
+---
 
 ## Summer 2024
 
