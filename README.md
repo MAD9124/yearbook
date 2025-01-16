@@ -5,9 +5,14 @@
 ### 300
 
 #### Instructor
+
 - [Tim Robillard](https://github.com/TimRobillard)
 
-#### PA(s)- 
+#### PA(s)-
+
+### Students
+
+- [Xu weikai](https://github.com/xu000306)
 
 ---
 
@@ -16,11 +21,13 @@
 ### 300
 
 #### Instructor
+
 - [Tim Robillard](https://github.com/TimRobillard)
 
-#### PA(s)- 
+#### PA(s)-
 
 #### Students
+
 - [Berkcan Alankoy](https://github.com/alan0053)
 - [Yuhang Zhou](https://github.com/zhou0244)
 - [brodie lewis](https://github.com/lewi0239)
