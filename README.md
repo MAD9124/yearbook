@@ -13,6 +13,7 @@
 ### Students
 
 - [Xu weikai](https://github.com/xu000306)
+- [Theo Van Dusen](https://github.com/vand0525)
 
 ---
 
