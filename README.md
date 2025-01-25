@@ -13,6 +13,7 @@
 ### Students
 
 - [Xu weikai](https://github.com/xu000306)
+- [Ryan Schock](https://github.com/scho0124)
 
 ---
 
