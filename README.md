@@ -13,6 +13,7 @@
 ### Students
 
 - [Xu weikai](https://github.com/xu000306)
+- [Jowairia Pathan](https://github.com/path0064)
 
 ---
 
