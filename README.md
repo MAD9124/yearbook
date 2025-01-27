@@ -14,6 +14,7 @@
 
 - [Xu weikai](https://github.com/xu000306)
 - [Theo Van Dusen](https://github.com/vand0525)
+- [Jowairia Pathan](https://github.com/path0064)
 
 ---
 
