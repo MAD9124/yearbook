@@ -13,6 +13,7 @@
 ### Students
 
 - [Xu weikai](https://github.com/xu000306)
+- [Ryan Schock](https://github.com/scho0124)
 - [Cheng Dong](https://github.com/dong0085)
 - [Theo Van Dusen](https://github.com/vand0525)
 - [Jowairia Pathan](https://github.com/path0064)
