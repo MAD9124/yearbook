@@ -10,14 +10,24 @@
 
 #### PA(s)-
 
+- [Annie](https://github.com/thom1662)
+
 ### Students
 
 - [Xu weikai](https://github.com/xu000306)
 - [Ryan Schock](https://github.com/scho0124)
 - [Cheng Dong](https://github.com/dong0085)
 - [Theo Van Dusen](https://github.com/vand0525)
-- [Jowairia Pathan](https://github.com/path0064)
 - [Zayn Levesque](https://github.com/leve0311)
+- [Jowairia Pathan](https://github.com/path0064)
+- [John Nesrallah](https://github.com/nesr0047)
+- [Petro Chaban](https://github.com/chab0114)
+- [Aymen Loudiy](https://github.com/aymenloudiy)
+- [Diana Valeria Ocampo Sanchez](https://github.com/0cam0026)
+- [Remi Liao](https://github.com/liao0035)
+- [Chahd Arjouni](https://github.com/arjo0003)
+- [Darryl McNiece](https://github.com/mcni0024)
+- [Muskan](https://github.com/muskan0015)
 
 ---
 
