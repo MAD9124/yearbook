@@ -21,6 +21,8 @@
 - [Petro Chaban](https://github.com/chab0114)
 - [Aymen Loudiy](https://github.com/aymenloudiy)
 - [Diana Valeria Ocampo Sanchez](https://github.com/0cam0026)
+- [Chahd Arjouni](https://github.com/arjo0003)
+
 
 
 ---
