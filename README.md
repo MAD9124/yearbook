@@ -10,6 +10,8 @@
 
 #### PA(s)-
 
+- [Annie](https://github.com/thom1662)
+
 ### Students
 
 - [Xu weikai](https://github.com/xu000306)
@@ -24,9 +26,9 @@
 - [Remi Liao](https://github.com/liao0035)
 - [Chahd Arjouni](https://github.com/arjo0003)
 - [Darryl McNiece](https://github.com/mcni0024)
-- [Chahd Arjouni](https://github.com/arjo0003)
 - [Muskan](https://github.com/muskan0015)
 
+---
 
 ## Summer 2024
 
