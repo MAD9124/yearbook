@@ -17,7 +17,9 @@
 - [Cheng Dong](https://github.com/dong0085)
 - [Theo Van Dusen](https://github.com/vand0525)
 - [Jowairia Pathan](https://github.com/path0064)
+- [Petro Chaban](https://github.com/chab0114)
 - [Aymen Loudiy](https://github.com/aymenloudiy)
+
 
 ---
 
