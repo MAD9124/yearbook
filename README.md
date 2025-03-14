@@ -10,6 +10,8 @@
 
 #### PA(s)-
 
+- [Annie](https://github.com/thom1662)
+
 ### Students
 
 - [Xu weikai](https://github.com/xu000306)
@@ -21,9 +23,11 @@
 - [Petro Chaban](https://github.com/chab0114)
 - [Aymen Loudiy](https://github.com/aymenloudiy)
 - [Diana Valeria Ocampo Sanchez](https://github.com/0cam0026)
+- [Remi Liao](https://github.com/liao0035)
 - [Chahd Arjouni](https://github.com/arjo0003)
 - [shaheena mirza](https://github.com/mirz0064)
-
+- [Darryl McNiece](https://github.com/mcni0024)
+- [Muskan](https://github.com/muskan0015)
 
 
 ---
