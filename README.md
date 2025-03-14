@@ -23,6 +23,8 @@
 - [Diana Valeria Ocampo Sanchez](https://github.com/0cam0026)
 - [Remi Liao](https://github.com/liao0035)
 - [Chahd Arjouni](https://github.com/arjo0003)
+- [Darryl McNiece](https://github.com/mcni0024)
+- [Chahd Arjouni](https://github.com/arjo0003)
 
 
 ## Summer 2024
