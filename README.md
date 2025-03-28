@@ -29,6 +29,7 @@
 - [shaheena mirza](https://github.com/mirz0064)
 - [Darryl McNiece](https://github.com/mcni0024)
 - [Muskan](https://github.com/muskan0015)
+- [Caroline Chang](https://github.com/chan0596)
 
 ---
 
