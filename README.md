@@ -34,6 +34,7 @@
 - [Caroline Chang](https://github.com/chan0596)
 - [Jackie Cheng](https://github.com/chen1041)
 - [James Pleau](https://github.com/plea0028)
+- [Othmane Belatik](https://github.com/bela0508)
 
 ---
 
