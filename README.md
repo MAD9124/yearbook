@@ -31,6 +31,7 @@
 - [Muskan](https://github.com/muskan0015)
 - [Caroline Chang](https://github.com/chan0596)
 - [Jackie Cheng](https://github.com/chen1041)
+- [Atlas Acuna](https://github.com/acun0009)
 
 ---
 
