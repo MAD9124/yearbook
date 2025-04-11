@@ -11,6 +11,7 @@
 #### PA(s)-
 
 - [Annie](https://github.com/thom1662)
+- [Sammy](https://github.com/hutc0173)
 
 ### Students
 
@@ -29,9 +30,11 @@
 - [shaheena mirza](https://github.com/mirz0064)
 - [Darryl McNiece](https://github.com/mcni0024)
 - [Muskan](https://github.com/muskan0015)
+- [Obed Bien-Aime](https://github.com/bien0025)
 - [Caroline Chang](https://github.com/chan0596)
 - [Jackie Cheng](https://github.com/chen1041)
-- [Atlas Acuna](https://github.com/acun0009)
+- [James Pleau](https://github.com/plea0028)
+- [Othmane Belatik](https://github.com/bela0508)
 
 ---
 
