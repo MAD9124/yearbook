@@ -36,6 +36,8 @@
 - [James Pleau](https://github.com/plea0028)
 - [Othmane Belatik](https://github.com/bela0508)
 - [Atlas Acuna](https://github.com/acun0009)
+- [Hafidha Abdullahi](https://github.com/abdu0618)
+
 
 ---
 
