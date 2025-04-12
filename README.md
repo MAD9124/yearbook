@@ -30,10 +30,13 @@
 - [shaheena mirza](https://github.com/mirz0064)
 - [Darryl McNiece](https://github.com/mcni0024)
 - [Muskan](https://github.com/muskan0015)
+- [Obed Bien-Aime](https://github.com/bien0025)
 - [Caroline Chang](https://github.com/chan0596)
 - [Jackie Cheng](https://github.com/chen1041)
 - [James Pleau](https://github.com/plea0028)
 - [Nada Boutou](https://github.com/bout0167)
+- [Othmane Belatik](https://github.com/bela0508)
+- [Atlas Acuna](https://github.com/acun0009)
 
 ---
 
